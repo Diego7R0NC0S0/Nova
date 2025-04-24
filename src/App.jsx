@@ -10,7 +10,6 @@ import Footer from './componets/Footer'
 const App = () => {
   return (
     <main className='relative min-h-screen w-screen overflow-hidden '>
-      <h1>2:21:32</h1>
       <Navbar/>
       <Hero/>
       <About/>
